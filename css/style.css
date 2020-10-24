@@ -27,6 +27,9 @@
 .clear{
     clear: both;
 }
+.entire-box{
+    margin-right: 55px;
+}
 .box1{
     width: 617px;
     height: 356px;
@@ -68,7 +71,5 @@
     padding: 20px 20px 0 26px;
     font-family: 'Segoe UI';
 }
-.entire-box{
-    margin-right: 55px;
-}
+
     
