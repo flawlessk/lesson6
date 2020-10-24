@@ -3,13 +3,12 @@
     width: 100%;
     height: 780px;
     margin: 40px auto;
-
 }
 .container{
     width: 1286px;
     background-color: #56836F;
     height: 700px;
-    border: 4px #006837 solid
+    border: 4px #006837 solid  
 }
 .navbar-ul{
     float: right;
