@@ -19,7 +19,10 @@
 }
 .logo{
     float: right;
-    margin: 38px 55px 63px;
+    padding: 38px 55px 63px;
+}
+.logo img{
+    width: 100%;
 }
 .clear{
     clear: both;
