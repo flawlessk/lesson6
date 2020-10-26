@@ -10,9 +10,9 @@
     height: 700px;
     border: 4px #006837 solid  
 }
-.navbar-ul{
+.navbar{
     float: right;
-    padding-top: 50px;
+    margin-top:50px;
 }
 .navbar-li a{
     color: white;
